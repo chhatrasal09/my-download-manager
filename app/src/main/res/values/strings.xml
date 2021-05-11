@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Download Manager</string>
+    <string name="enter_url_to_download_file">Enter url to download file!</string>
+</resources>
